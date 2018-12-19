@@ -1,12 +1,15 @@
 # Waltemath Lab
-Medical Informatics Lab at the [University Hospital Greifswald](https://www.medizin.uni-greifswald.de/de/home/) (Germany)
+Medical Informatics Lab at the [University Hospital Greifswald](https://www.medizin.uni-greifswald.de/de/home/) (Germany), [Institute for Community Medicine](http://www2.medizin.uni-greifswald.de/icm/index.php?id=334).
 
 ### Research
-
 
 ### Team 
 
 *We are hiring!* Contact us if you are interested in doing your PhD with us, visiting us as a summer student, or work with us as a student helper. 
+
+### Publications
+
+<iframe src="https://www.fis.med.uni-greifswald.de/FIS/init_external_pubs.action?auth=ngpocpv7uc2ss&pubs=01234567" style="border: none; overflow: auto; width: 600px; height: 600px;"></iframe>
 
 ### Contact
 
