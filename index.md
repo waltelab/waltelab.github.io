@@ -1,5 +1,5 @@
 # Waltemath Lab
-Medical Informatics Lab at the [University Hospital Greifswald](https://www.medizin.uni-greifswald.de/de/home/) (Germany), [Institute for Community Medicine](http://www2.medizin.uni-greifswald.de/icm/index.php?id=334).
+Medical Informatics Lab at the [University Hospital Greifswald](https://www.medizin.uni-greifswald.de/de/home/), [Institute for Community Medicine](http://www2.medizin.uni-greifswald.de/icm/index.php?id=334).
 
 ### Research
 
@@ -9,7 +9,7 @@ Medical Informatics Lab at the [University Hospital Greifswald](https://www.medi
 
 ### selected Publications
 
-<iframe src="https://www.fis.med.uni-greifswald.de/FIS/init_external_pubs.action?auth=ngpocpv7uc2ss&pubs=01234567" style="border: none; overflow: auto; width: 600px; height: 600px;"></iframe>
+<iframe src="https://www.fis.med.uni-greifswald.de/FIS/init_external_pubs.action?auth=ngpocpv7uc2ss&pubs=01234567&start=2017" style="border: none; overflow: auto; width: 600px; height: 600px;"></iframe>
 
 For a comprehensive list of publications see also [Dagmar Waltemath's Google Scholar profile](https://scholar.google.com/citations?user=wmBwmLIAAAAJ&hl=en&oi=sra).
 ### Contact
