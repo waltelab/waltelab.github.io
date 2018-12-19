@@ -7,7 +7,7 @@ Medical Informatics Lab at the [University Hospital Greifswald](https://www.medi
 
 *We are hiring!* Contact us if you are interested in doing your PhD with us, visiting us as a summer student, or work with us as a student helper. 
 
-### selected Publications
+### Selected Publications
 
 <iframe src="https://www.fis.med.uni-greifswald.de/FIS/init_external_pubs.action?auth=ngpocpv7uc2ss&pubs=01234567&start=2017" style="border: none; overflow: auto; width: 600px; height: 600px;"></iframe>
 
