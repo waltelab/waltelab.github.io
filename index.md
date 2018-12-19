@@ -7,10 +7,11 @@ Medical Informatics Lab at the [University Hospital Greifswald](https://www.medi
 
 *We are hiring!* Contact us if you are interested in doing your PhD with us, visiting us as a summer student, or work with us as a student helper. 
 
-### Publications
+### selected Publications
 
 <iframe src="https://www.fis.med.uni-greifswald.de/FIS/init_external_pubs.action?auth=ngpocpv7uc2ss&pubs=01234567" style="border: none; overflow: auto; width: 600px; height: 600px;"></iframe>
 
+For a comprehensive list of publications see also [Dagmar Waltemath's Google Scholar profile](https://scholar.google.com/citations?user=wmBwmLIAAAAJ&hl=en&oi=sra).
 ### Contact
 
 [Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss)
