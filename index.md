@@ -2,6 +2,7 @@
 Medical Informatics Lab at the [University Hospital Greifswald](https://www.medizin.uni-greifswald.de/de/home/), [Institute for Community Medicine](http://www2.medizin.uni-greifswald.de/icm/index.php?id=334).
 
 ### Research
+This website is under construction. 
 
 ### Team 
 
