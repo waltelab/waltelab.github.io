@@ -2,7 +2,12 @@
 Medical Informatics Lab at the [University Hospital Greifswald](https://www.medizin.uni-greifswald.de/de/home/), [Institute for Community Medicine](http://www2.medizin.uni-greifswald.de/icm/index.php?id=334).
 
 ### Research
-This website is under construction. 
+
+Research Data Management | Development and implementation of concepts for improved management of biomedical and clinical research data 
+Data Retrieval and Similarity |	Methods for search, retrieval and comparison of biomedical and clinical data from clinical information systems
+Data Provenance |	Tracking, describing and analysing changes on biomedical and clinical data sets
+Standardisation |	Development and implementation of data standards for biomedical research, particularly modeling and simulation
+Semantic enrichment |	Concepts for the annotation of data sets with semantic knowledge, particularly biomedical ontologies
 
 ### Team 
 
