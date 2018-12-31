@@ -10,7 +10,7 @@ This website is under construction.
 
 ### Selected Publications
 
-<iframe src="https://www.fis.med.uni-greifswald.de/FIS/init_external_pubs.action?auth=ngpocpv7uc2ss&pubs=01234567&start=2017" style="border: none; overflow: auto; width: 600px; height: 300px;"></iframe>
+<iframe src="https://www.fis.med.uni-greifswald.de/FIS/init_external_pubs.action?auth=ngpocpv7uc2ss&pubs=01234567&start=2017" style="border: none; overflow: auto; width: 600px;"></iframe>
 
 For a comprehensive list of publications see also [Dagmar Waltemath's Google Scholar profile](https://scholar.google.com/citations?user=wmBwmLIAAAAJ&hl=en&oi=sra).
 ### Contact
