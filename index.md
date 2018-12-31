@@ -15,6 +15,4 @@ This website is under construction.
 For a comprehensive list of publications see also [Dagmar Waltemath's Google Scholar profile](https://scholar.google.com/citations?user=wmBwmLIAAAAJ&hl=en&oi=sra).
 ### Contact
 
-[Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss)
-
-ORCID: [0000-0002-5886-5563](https://orcid.org/0000-0002-5886-5563)
+[Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss) | ORCID: [0000-0002-5886-5563](https://orcid.org/0000-0002-5886-5563)
