@@ -3,11 +3,11 @@ Medical Informatics Lab at the [University Hospital Greifswald](https://www.medi
 
 ### Research
 
-Research Data Management | Development and implementation of concepts for improved management of biomedical and clinical research data 
-Data Retrieval and Similarity |	Methods for search, retrieval and comparison of biomedical and clinical data from clinical information systems
-Data Provenance |	Tracking, describing and analysing changes on biomedical and clinical data sets
-Standardisation |	Development and implementation of data standards for biomedical research, particularly modeling and simulation
-Semantic enrichment |	Concepts for the annotation of data sets with semantic knowledge, particularly biomedical ontologies
+1. **Research Data Management**: Development and implementation of concepts for improved management of biomedical and clinical research data 
+2. **Data Retrieval and Similarity**:	Methods for search, retrieval and comparison of biomedical and clinical data from clinical information systems
+3. **Data Provenance**:	Tracking, describing and analysing changes on biomedical and clinical data sets
+4. **Standardisation**:	Development and implementation of data standards for biomedical research, particularly modeling and simulation
+5. **Semantic enrichment**:	Concepts for the annotation of data sets with semantic knowledge, particularly biomedical ontologies
 
 ### Team 
 
