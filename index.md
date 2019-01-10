@@ -1,5 +1,6 @@
-# Waltemath Lab
+﻿# Waltemath Lab
 Medical Informatics Lab at the [University Hospital Greifswald](https://www.medizin.uni-greifswald.de/de/home/), [Institute for Community Medicine](http://www2.medizin.uni-greifswald.de/icm/index.php?id=334).
+**This website is under construction.**
 
 ### Research
 
@@ -21,4 +22,11 @@ For a comprehensive list of publications see also [Dagmar Waltemath's Google Sch
 ### Contact
 
 [Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss) 
-ORCID: [0000-0002-5886-5563](https://orcid.org/0000-0002-5886-5563)
+ORCID: [0000-0002-5886-5563](https://orcid.org/0000-0002-5886-5563) Twitter: [waltelab]()
+
+Medical Informatics
+Section Epidemiology of Health Care and Community Health
+University Medicine Greifswald
+Ellernholzstraße 1-2
+D-17487 Greifswald
+Germany
