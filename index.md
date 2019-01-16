@@ -24,6 +24,6 @@ For a comprehensive list of publications see also [Dagmar Waltemath's Google Sch
 [Dagmar Waltemath](https://www.fis.med.uni-greifswald.de/FIS/init_person_browser.action?pers_id=ngpocpv7uc2ss) 
 ORCID: [0000-0002-5886-5563](https://orcid.org/0000-0002-5886-5563) Twitter: [waltelab](https://twitter.com/waltelab)
 
-Medical Informatics * Section Epidemiology of Health Care and Community Health * University Medicine Greifswald 
+Medical Informatics, Section Epidemiology of Health Care and Community Health, University Medicine Greifswald 
 
 Ellernholzstraße 1-2, D-17487 Greifswald, Germany
