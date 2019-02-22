@@ -1,4 +1,4 @@
-﻿# Waltemath Lab
+# Waltemath Lab
 Medical Informatics Lab at the [University Hospital Greifswald](https://www.medizin.uni-greifswald.de/de/home/), [Institute for Community Medicine](http://www2.medizin.uni-greifswald.de/icm/index.php?id=334).
 **This website is under construction.**
 
@@ -13,6 +13,11 @@ Medical Informatics Lab at the [University Hospital Greifswald](https://www.medi
 ### Team 
 
 *We are hiring!* Contact us if you are interested in doing your PhD with us, visiting us as a summer student, or work with us as a student helper. 
+
+#### Or apply for open positions: 
+1. [Scientific Programmer (with PhD option)](https://www.medizin.uni-greifswald.de/fileadmin/user_extern_upload/Ausschreibungen/stellenanzeigen/extern/UMG/2019/22022019/SteA_19M16_ex_WissD_Wiss_Programmierer_CM.pdf) 
+2. PhD position in biomedical data integration (coming very soon)
+3. Programmer (JAVA, Ruby on Rails) in an international data management project (1 yr, E13, starting now) - just write me an email! 
 
 ### Selected Publications
 
