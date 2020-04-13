@@ -12,7 +12,7 @@ The Medical Informatics Laboratory is interested in different aspects of biomedi
 
 ### Project links 
 
-[MIRACUM](miracum.org/) (until 2021) [EUStands4PM](https://www.fis.med.uni-greifswald.de/FIS/init_project_browser.action?proj_id=mnhvu758gmebi)  (until 12/2020) [INCOME](https://www.fis.med.uni-greifswald.de/FIS/init_project_browser.action?proj_id=cdeqvdrrlkoau)  (until 04/2020) [SEMS](https://sems.bio.informatik.uni-rostock.de/)  (until 02/2017)
+[MIRACUM](https://www.fis.med.uni-greifswald.de/FIS/init_project_browser.action?proj_id=69mg54a5eario) (until 2021) [EUStands4PM](https://www.fis.med.uni-greifswald.de/FIS/init_project_browser.action?proj_id=mnhvu758gmebi)  (until 12/2020) [INCOME](https://www.fis.med.uni-greifswald.de/FIS/init_project_browser.action?proj_id=cdeqvdrrlkoau)  (until 04/2020) [SEMS](https://sems.bio.informatik.uni-rostock.de/)  (until 02/2017)
 
 ### Team 
 
