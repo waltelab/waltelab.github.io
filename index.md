@@ -1,5 +1,5 @@
 # Medical Informatics Laboratory
-The Medical Informatics Laboratory is interested in different aspects of biomedical data integration and standardisation. We are located at the [University Hospital Greifswald](https://www.medizin.uni-greifswald.de/de/home/), [Institute for Community Medicine](http://www2.medizin.uni-greifswald.de/icm/index.php?id=334). 
+The Medical Informatics Laboratory is interested in different aspects of biomedical data integration and standardisation. We are located at the [University Hospital Greifswald](https://www.medizin.uni-greifswald.de/de/home/), [Institute for Community Medicine](http://www2.medizin.uni-greifswald.de/icm/index.php?id=334) (Germany). 
 
 
 ### Research
