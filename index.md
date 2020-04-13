@@ -10,6 +10,10 @@ The Medical Informatics Laboratory is interested in different aspects of biomedi
 4. **Standardisation**:	Development and implementation of data standards for biomedical research, particularly modeling and simulation
 5. **Semantic enrichment**:	Concepts for the annotation of data sets with semantic knowledge, particularly biomedical ontologies
 
+### Project links 
+
+[EUStands4PM (until 12/2020)](https://www.fis.med.uni-greifswald.de/FIS/init_project_browser.action?proj_id=mnhvu758gmebi)| [INCOME (until 04/2020)](https://www.fis.med.uni-greifswald.de/FIS/init_project_browser.action?proj_id=cdeqvdrrlkoau) | [SEMS (until 02/2017)](https://sems.bio.informatik.uni-rostock.de/)
+
 ### Team 
 
 This is [who we are](https://www.fis.med.uni-greifswald.de/FIS/init_rgap_browser.action?rgap=27) (list of team members in the university's research information system) 
